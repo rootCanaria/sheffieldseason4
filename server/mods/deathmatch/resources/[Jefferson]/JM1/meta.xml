@@ -1,0 +1,5 @@
+ <meta>
+    <script src="replace.lua" type="client" />
+    <file src="motel_lae.txd" />
+    <file src="laecrackmotel1.dff" />
+    </meta>

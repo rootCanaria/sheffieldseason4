@@ -1,0 +1,5 @@
+ <meta>
+    <script src="replace.lua" type="client" />
+    <file src="jeffers4_lae.txd" />
+    <file src="laejeffers01.dff" />
+    </meta>

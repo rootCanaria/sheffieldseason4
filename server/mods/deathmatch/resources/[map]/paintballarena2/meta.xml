@@ -1,0 +1,15 @@
+<meta>
+    <info gamemodes="stealth" type="map" name="sth-noshahr_canals" author="v0van505" version="1.0.0" description="Map from Battlefield 3."></info>
+    <map src="sth-noshahr_canals.map" dimension="0"></map>
+    <settings>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.008000 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#camera" value="[ [ [ 466.914215, -3799.071289, 24.686365 ], [ 507.543640, -3879.815918, -18.086958 ] ] ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="12:0"></setting>
+    </settings>
+</meta>

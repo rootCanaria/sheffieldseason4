@@ -1,6 +1,0 @@
-<meta>
-    <script src="loader.lua" type="client"/>
-
-    <file src="5418.dff" cache="false"/>
-    <file src="5418.col" cache="false"/>
-</meta>

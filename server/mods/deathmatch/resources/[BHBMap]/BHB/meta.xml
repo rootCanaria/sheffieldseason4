@@ -1,6 +1,0 @@
-<meta>
-	<info author="GloryVon"type="script" version="1.0.0" />
-	<script type="client"src="replace.lua" />
-	<file src="3588.txd" />
-	<file src="3588.dff" />
-</meta>

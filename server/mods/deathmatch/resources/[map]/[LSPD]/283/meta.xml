@@ -1,6 +1,0 @@
-<meta>
-	<info author="yAzn"type="script" version="1.0.0" />
-	<script type="client"src="replace.lua" />
-	<file src="283.txd" />
-	<file src="283.dff" />
-</meta>
